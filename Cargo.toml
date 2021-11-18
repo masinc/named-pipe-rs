@@ -2,10 +2,12 @@
 name = "named-pipe"
 version = "0.0.1"
 license = "MIT OR Apache-2.0"
+description = "Synchronous NamedPipe wrapper on Windows"
+categories = ["os::windows-apis", "memory-management"]
+keywords = ["named", "pipe", "windows"]
 edition = "2021"
 authors = ["masinc <masinc000@gmail.com>"]
-keywords = ["named", "pipe", "windows"]
-categories = ["os::windows-apis", "memory-management"]
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
